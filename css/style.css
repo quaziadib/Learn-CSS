@@ -1,0 +1,34 @@
+body{
+    background-color: rgba(163, 163, 144, 0.61);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#nav{
+    background-color: rgba(128, 128, 128, 0.582);
+    text-align: center;
+    padding: 10px;
+    color: rgba(0, 0, 0, 0.712);
+}
+small{
+    color: rgba(21, 32, 131, 0.74);
+}
+.header{
+    text-align: center;
+}
+.blog{
+    background-color: rgba(248, 231, 231, 0.507);
+    border: 5px solid lightgoldenrodyellow;
+    border-radius:10px;
+    margin: 10px;
+    padding: 25px;
+}
+
+.blog p{
+    text-align: justify;
+    font-weight: 250;
+}
+
+.blog h3{
+    font-size: 1.2em;
+    font-weight: 550;
+}
